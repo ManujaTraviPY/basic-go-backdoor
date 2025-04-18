@@ -1,0 +1,6 @@
+- Listen for incoming connections from our malware 
+- receive an incoming connection
+- loop :
+    - take input from the user
+    - send that to the malware
+    - receive the results
